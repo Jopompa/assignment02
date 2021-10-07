@@ -14,7 +14,7 @@ The UT session was conducted via zoom. The user and myself were communicating vi
 Link to the moderator script and user survey: <a href="https://docs.google.com/forms/d/19jUbeatlS7unyup590cQLmZJOicjiCWYe-LZMY9-XSE/edit"> Google form link </a>
 
 ### Video Link 
-Link to recording of usability test session: <a href="https://drive.google.com/drive/u/0/my-drive"> UT Recording </a>
+Link to recording of usability test session: <a href="https://drive.google.com/file/d/1TcBNqBHWHplTecQ53t25ADkKvxGy6ZR_/view?usp=sharing"> UT Recording </a>
 
 ### Summary 
 After conducting the usability test I learned a lot of things about Alaska's Department of Fish and Game webpage and the usability test process that I was not aware of. 
